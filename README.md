@@ -97,3 +97,6 @@ The system consists of the following components:
 - Failure analysis with machine learning
 - Integration with other CI systems (Jenkins, CircleCI)
 - Email/Slack notifications for build failures
+
+Grafana dashboard:
+<img width="1469" alt="Grafana_ss" src="https://github.com/user-attachments/assets/f4ecceca-a489-4a26-a1aa-28f2ab9f8725" />
