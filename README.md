@@ -42,3 +42,11 @@ The system is designed to help development teams identify bottlenecks in their b
 1. Create a PostgreSQL database:
 ```bash
 createdb ci_metrics
+```
+
+2. Update the connection string in db.py with your database credentials
+
+3. Run the database migration:
+```bash
+python migrate_db.py
+```
