@@ -100,3 +100,8 @@ The system consists of the following components:
 
 Grafana dashboard:
 <img width="1469" alt="Grafana_ss" src="https://github.com/user-attachments/assets/f4ecceca-a489-4a26-a1aa-28f2ab9f8725" />
+
+UI dashboard:
+<img width="1468" alt="Screenshot 2025-03-10 at 2 46 11 PM" src="https://github.com/user-attachments/assets/7c8a7d19-45d1-4883-a56a-4f5e822143aa" />
+<img width="1041" alt="Screenshot 2025-03-10 at 2 46 47 PM" src="https://github.com/user-attachments/assets/5b3a90a1-8ccf-4644-9a79-e05c880148e5" />
+
